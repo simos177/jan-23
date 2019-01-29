@@ -1,7 +1,14 @@
 /* boilerplate */
 
+body{
+	background: #f09bd3;
+    font-size:12px; 
+    font-family: Futura, sans-serif;
+    color: #ffffff;
+}
 
-*{
-	padding: 0;
-	margin: 0;
+.header{
+	font-size:12px; 
+    font-family: Futura, sans-serif;
+    color: #ffffff;
 }
